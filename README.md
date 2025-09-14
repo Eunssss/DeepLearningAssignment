@@ -1,5 +1,7 @@
 # DeepLearningAssignment
 
+HW0
+
 원본 사진
 <img width="1000" height="1000" alt="image" src="https://github.com/user-attachments/assets/cefffb3e-9846-4e90-ab5d-c93bce230e37" />
 
