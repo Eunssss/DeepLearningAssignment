@@ -7,4 +7,6 @@
 <img width="1024" height="1024" alt="Gemini_Generated_Image_8kr1e48kr1e48kr1" src="https://github.com/user-attachments/assets/88b960dd-1764-43d5-b274-f67500e59921" />
 
 위에 변형된 사진을 바탕으로 영상을 제작해달라고 하였고 하늘 밑으로 내랴오면서 지면과 가깝게 만들어줘 내려올수록 구름이 걷히는 것도 있었으면 좋겠어라고 하였다.
-![dolphin](https://github.com/user-attachments/assets/5f67afbd-76ea-459c-b923-21427c3c6d0d)
+https://github.com/user-attachments/assets/7f8310ef-f6cc-4b57-b389-93b5283c847c
+
+
